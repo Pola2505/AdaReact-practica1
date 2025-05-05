@@ -1,0 +1,13 @@
+.nav{
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.title{
+    font-weight: 200;
+    letter-spacing: 1px;
+    font-size: 30px;
+}

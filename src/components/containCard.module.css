@@ -1,0 +1,16 @@
+.cards {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    font-family: system-ui;
+    margin-top: 50px;
+}
+
+.noExisten {
+    font-weight: 300;
+    
+}
